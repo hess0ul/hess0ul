@@ -101,8 +101,8 @@ It is a versioned project, treated with the same rigor as production work.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hess0ul&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hess0ul&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-![GitHub streak](https://streak-stats.demolab.com/?user=hess0ul&theme=tokyonight&hide_border=true)
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hess0ul&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="195" src="https://streak-stats.demolab.com/?user=hess0ul&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <br/>
 
