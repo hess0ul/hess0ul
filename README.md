@@ -1,6 +1,7 @@
 <div align="center">
 
-![Location](https://img.shields.io/badge/Based_in-France-1A1B27?style=for-the-badge&logo=googlemaps&logoColor=22D3EE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-maxime-petitjean/)
+![Location](https://img.shields.io/badge/Based_in-Toulouse-1A1B27?style=for-the-badge&logo=googlemaps&logoColor=22D3EE)
 ![Followers](https://img.shields.io/github/followers/hess0ul?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=22D3EE&labelColor=0D1117)
 ![Profile views](https://komarev.com/ghpvc/?username=hess0ul&label=Profile%20views&color=22d3ee&style=for-the-badge)
 
@@ -8,18 +9,11 @@
 
 ## 👤 About
 
-```text
-DevOps & Cloud Engineer, junior.
+**Junior DevOps & Cloud Engineer.**
 
-I build and automate infrastructure, with a focus on making systems
-reliable, reproducible and understandable. I like going deep: from the
-network layer up to the orchestration plane, turning manual and error-prone
-processes into versioned, automated ones. Infrastructure as Code is where
-I feel most at home.
+I've been hooked on computers since I was a kid, hardware and software alike. What I love about this job is simple: **automating things and seeing the impact**. I'd rather spend an hour teaching a task to run itself than do it by hand twice, and I like digging until I actually understand how a system works, not just how to use it.
 
-Away from the terminal, I spend a good part of my time on the financial
-markets, where I bring the same mindset: automate, measure, iterate.
-```
+Away from the terminal, I spend a good part of my time on the **financial markets**, where I bring the same mindset: automate, measure, iterate.
 
 - 🎓 &nbsp;Master's degree in IT project management
 - ⚙️ &nbsp;Focus: Infrastructure as Code, CI/CD, containers, cloud
