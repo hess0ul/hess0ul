@@ -13,7 +13,7 @@
 
 I've been hooked on computers since I was a kid, hardware and software alike. What I love about this job is simple: **automating things and seeing the impact**. I'd rather spend an hour teaching a task to run itself than do it by hand twice, and I like digging until I actually understand how a system works, not just how to use it.
 
-Away from the terminal, I spend a good part of my time on the **financial markets**, where I bring the same mindset: automate, measure, iterate.
+Away from the terminal, I spend a good part of my time on the **financial markets**, where I bring the same mindset: analyze, backtest, automate.
 
 - 🎓 &nbsp;Master's degree in IT project management
 - ⚙️ &nbsp;Focus: Infrastructure as Code, CI/CD, containers, cloud
