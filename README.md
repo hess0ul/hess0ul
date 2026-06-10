@@ -18,8 +18,6 @@ I've been hooked on computers since I was a kid, hardware and software alike. Wh
 Away from the terminal, I spend a good part of my time on the **financial markets**, where I bring the same mindset: analyze, backtest, automate.
 
 - 🎓 &nbsp;Master's degree in IT project management
-- ⚙️ &nbsp;Focus: Infrastructure as Code, CI/CD, containers, cloud
-- 📈 &nbsp;Off the clock: algorithmic and order flow trading
 - 🌍 &nbsp;Languages: French (native), English
 
 ## 🧰 Tech Stack
@@ -51,19 +49,23 @@ Away from the terminal, I spend a good part of my time on the **financial market
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 **🖥️ Systems & OS**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Windows 10/11](https://img.shields.io/badge/Windows_10%2F11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
 
-**📊 Observability & ITSM**
+**📊 Monitoring**
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Centreon](https://img.shields.io/badge/Centreon-009FDF?style=for-the-badge&logo=centreon&logoColor=white)
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
+
+**📋 Project Management & ITSM**
+
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
