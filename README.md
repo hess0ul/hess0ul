@@ -13,7 +13,7 @@
 
 **Junior DevOps & Cloud Engineer.**
 
-I've been hooked on computers since I was a kid, hardware and software alike. What I love about this job is simple: **automating things and seeing the impact**. I'd rather spend an hour teaching a task to run itself than do it by hand twice, and I like digging until I actually understand how a system works, not just how to use it.
+I've been hooked on computers since I was a kid, hardware and software alike. What I love about this job is simple: **automating things and seeing the impact**. I'd rather spend an hour teaching a task to run itself than do it by hand twice, and I like digging until I actually understand how a system works, not just how to use it. A lot of that curiosity goes into my homelab, where I build, break and document real infrastructure for fun.
 
 Away from the terminal, I spend a good part of my time on the **financial markets**, where I bring the same mindset: analyze, backtest, automate.
 
@@ -86,9 +86,9 @@ I learn best by running real infrastructure at home, then documenting every chan
 It is a versioned project, treated with the same rigor as production work.
 
 ```text
-[ OK ]  Proxmox VE hypervisor . . . . ~10 LXC/VM (Docker, Nextcloud, Immich, Vaultwarden)
+[ OK ]  Proxmox VE hypervisor . . . . Nextcloud · Immich · Vaultwarden · Docmost · Linkwarden · Coder · Home Assistant · Homarr
 [ OK ]  OpenWrt router . . . . . . . . 6 segmented VLANs, firewall, dual-WAN failover (fiber + 5G)
-[ OK ]  Reverse proxy + TLS . . . . . wildcard certs via ACME DNS-01, auto-renewed
+[ OK ]  Reverse proxy (NPMplus) . . . wildcard certs via ACME DNS-01, auto-renewed
 [ OK ]  Edge security . . . . . . . . CrowdSec WAF, zero open ports (Cloudflare tunnel)
 [ OK ]  Documentation . . . . . . . . ADRs, changelog, conventions, infra-as-doc
 ```
