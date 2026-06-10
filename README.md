@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/header.svg" alt="hess0ul - DevOps & Cloud Engineer" width="100%" />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-maxime-petitjean/)
 ![Location](https://img.shields.io/badge/Based_in-Toulouse-1A1B27?style=for-the-badge&logo=googlemaps&logoColor=22D3EE)
 ![Followers](https://img.shields.io/github/followers/hess0ul?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=22D3EE&labelColor=0D1117)
