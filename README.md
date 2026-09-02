@@ -83,14 +83,41 @@ it, and let the data decide.
 ## 🏠 Homelab
 
 I learn best by running real infrastructure at home, then documenting every change.
-It is a versioned project, treated with the same rigor as production work.
+It is a versioned project, treated with the same rigor as production work: six segmented VLANs
+with dual-WAN failover (fiber + 5G), zero open ports behind a Cloudflare tunnel, wildcard
+certificates renewed via ACME DNS-01, CrowdSec at the edge.
 
-```text
-[ OK ]  Proxmox VE hypervisor . . . . Nextcloud · Immich · Vaultwarden · Docmost · Linkwarden · Coder · Home Assistant · Homarr
-[ OK ]  OpenWrt router . . . . . . . . 6 segmented VLANs, firewall, dual-WAN failover (fiber + 5G)
-[ OK ]  Reverse proxy (NPMplus) . . . wildcard certs via ACME DNS-01, auto-renewed
-[ OK ]  Edge security . . . . . . . . CrowdSec WAF, zero open ports (Cloudflare tunnel)
-```
+**🧱 Platform**
+
+![Proxmox VE](https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**🌐 Network & Edge**
+
+![Cloudflare Tunnel](https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![NPMplus](https://img.shields.io/badge/NPMplus-F15833?style=for-the-badge&logo=nginxproxymanager&logoColor=white)
+![Let's Encrypt](https://img.shields.io/badge/Let%27s_Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![AdGuard Home](https://img.shields.io/badge/AdGuard_Home-68BC71?style=for-the-badge&logo=adguard&logoColor=white)
+![CrowdSec](https://img.shields.io/badge/CrowdSec-2C3E50?style=for-the-badge)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
+
+**🔁 DevOps platform**
+
+![GitLab CE](https://img.shields.io/badge/GitLab_CE-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![HashiCorp Vault](https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=FFEC6E)
+![Coder](https://img.shields.io/badge/Coder-090B0B?style=for-the-badge&logo=coder&logoColor=white)
+
+**☁️ Self-hosted apps**
+
+![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)
+![Immich](https://img.shields.io/badge/Immich-4250AF?style=for-the-badge&logo=immich&logoColor=white)
+![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC?style=for-the-badge&logo=vaultwarden&logoColor=white)
+![Docmost](https://img.shields.io/badge/Docmost-3B82F6?style=for-the-badge)
+![Linkwarden](https://img.shields.io/badge/Linkwarden-1E293B?style=for-the-badge)
+![Home Assistant](https://img.shields.io/badge/Home_Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white)
+![Homarr](https://img.shields.io/badge/Homarr-FA5252?style=for-the-badge&logo=homarr&logoColor=white)
 
 ## 📊 GitHub Stats
 
