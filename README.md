@@ -99,7 +99,7 @@ It is a versioned project, treated with the same rigor as production work.
 ![GitHub stats](./profile/stats.svg)
 
 <img height="195" src="./profile/top-langs.svg" alt="Top languages" />
-<img height="195" src="https://streak-stats.demolab.com/?user=hess0ul&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img height="195" src="./profile/streak.svg" alt="GitHub streak" />
 
 <br/>
 
