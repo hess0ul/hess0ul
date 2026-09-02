@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Thomas Petitjean&#39;s GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 2, Total Commits  : 129, Total PRs: 0, Total Issues: 0, Contributed to (last year): 0</desc>
+        <title id="titleId">Thomas Petitjean's GitHub Stats, Rank: B-</title>
+        <desc id="descId">Total Stars Earned: 2, Total Commits  : 999, Total PRs: 57, Total Issues: 0, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 237.54107101513102;
+        stroke-dashoffset: 185.87322225852512;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Thomas Petitjean&#39;s GitHub Stats</text>
+      >Thomas Petitjean's GitHub Stats</text>
     </g>
       </g>
     
@@ -159,7 +159,7 @@
       <text class="stat  bold" x="25" y="12.5">Total Stars Earned:</text>
       <text
         class="stat  bold"
-        x="224.01"
+        x="219.01"
         y="12.5"
         data-testid="stars"
       >2</text>
@@ -174,10 +174,10 @@
       <text class="stat  bold" x="25" y="12.5">Total Commits:</text>
       <text
         class="stat  bold"
-        x="224.01"
+        x="219.01"
         y="12.5"
         data-testid="commits"
-      >129</text>
+      >999</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -189,10 +189,10 @@
       <text class="stat  bold" x="25" y="12.5">Total PRs:</text>
       <text
         class="stat  bold"
-        x="224.01"
+        x="219.01"
         y="12.5"
         data-testid="prs"
-      >0</text>
+      >57</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -204,7 +204,7 @@
       <text class="stat  bold" x="25" y="12.5">Total Issues:</text>
       <text
         class="stat  bold"
-        x="224.01"
+        x="219.01"
         y="12.5"
         data-testid="issues"
       >0</text>
@@ -219,10 +219,10 @@
       <text class="stat  bold" x="25" y="12.5">Contributed to (last year):</text>
       <text
         class="stat  bold"
-        x="224.01"
+        x="219.01"
         y="12.5"
         data-testid="contribs"
-      >0</text>
+      >5</text>
     </g>
   </g>
     </svg>
