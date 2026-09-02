@@ -96,7 +96,7 @@ tunnel, wildcard certificates renewed via ACME DNS-01, CrowdSec at the edge.
 
 ![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white)
 ![AdGuard Home](https://img.shields.io/badge/AdGuard_Home-68BC71?style=for-the-badge&logo=adguard&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPGNpcmNsZSBjeD0iMyIgY3k9IjMiIHI9IjMiIG9wYWNpdHk9Ii4zNSIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMyIgcj0iMyIgb3BhY2l0eT0iLjM1Ii8%2BPGNpcmNsZSBjeD0iMjEiIGN5PSIzIiByPSIzIiBvcGFjaXR5PSIuMzUiLz48Y2lyY2xlIGN4PSIzIiBjeT0iMTIiIHI9IjMiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIzIi8%2BPGNpcmNsZSBjeD0iMjEiIGN5PSIxMiIgcj0iMyIvPjxjaXJjbGUgY3g9IjMiIGN5PSIyMSIgcj0iMyIgb3BhY2l0eT0iLjM1Ii8%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIyMSIgcj0iMyIvPjxjaXJjbGUgY3g9IjIxIiBjeT0iMjEiIHI9IjMiIG9wYWNpdHk9Ii4zNSIvPjwvc3ZnPg%3D%3D)
 
 **🖥️ Server**
 
