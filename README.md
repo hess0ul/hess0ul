@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-maxime-petitjean/)
 ![Location](https://img.shields.io/badge/Based_in-Toulouse-1A1B27?style=for-the-badge&logo=googlemaps&logoColor=22D3EE)
 ![Followers](https://img.shields.io/github/followers/hess0ul?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=22D3EE&labelColor=0D1117)
-![Profile views](https://komarev.com/ghpvc/?username=hess0ul&label=Profile%20views&color=22d3ee&style=for-the-badge)
+![Profile views](https://api.visitorbadge.io/api/visitors?path=github.com%2Fhess0ul&label=Profile%20views&countColor=%2322d3ee&labelColor=%230d1117&style=for-the-badge)
 
 </div>
 
